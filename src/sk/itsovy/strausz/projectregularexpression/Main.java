@@ -6,6 +6,9 @@ public class Main {
 
         Regex regex = new Regex();
         regex.getIp();
+        regex.getPersonalId();
+        regex.getMacAddress();
+        regex.getDate();
 
     }
 }
